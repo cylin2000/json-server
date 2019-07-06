@@ -1,0 +1,12 @@
+{
+    "name": "json-server",
+    "version": "0.0.1",
+    "private": true,
+    "description": "",
+    "scripts": {
+      "start": "json-server --watch db.json --routes routes.json"
+    },
+    "dependencies": {
+        "json-server": "^0.14.1"
+    }
+}
